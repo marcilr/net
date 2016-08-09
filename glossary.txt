@@ -1,0 +1,175 @@
+glossary.txt
+Created Fri Aug 29 09:27:50 AKDT 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Glossary for net
+
+
+ASN - Abstract Syntax Notation One (ASN.1) is a standard and notation that
+  describes rules and structures for representing, encoding, transmitting, and
+  decoding data in telecommunications and computer networking.  The formal
+  rules enable representation of objects that are independent of
+  machine-specific encoding techniques.  Formal notation makes it possible to
+  automate the task of validating whether a specific instance of data
+  representation abides by the specifications.  In other words, software tools
+  can be used for the validation.[1]
+
+  [1] Using ASN.1 (Abstract Syntax Notation 1): A Data Description Language
+  http://www.nal.usda.gov/pgdic/Probe/v2n2/using.html
+
+  Abstract Syntax Notation One
+  From Wikipedia, the free encyclopedia
+  http://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One#cite_note-1
+
+DSSS - direct-sequence spread spectrum - Acronym for direct-sequence spread
+  spectrum.  DSSS is one of two types of spread spectrum radio, the other
+  being frequency-hopping spread spectrum (FHSS).  DSSS is a transmission
+  technology used in LAWNtransmissions where a data signal at the sending
+  station is combined with a higher data rate bit sequence, or chipping code,
+  that divides the user data according to a spreading ratio.  The chipping
+  code is a redundant bit pattern for each bit that is transmitted, which
+  increases the signal's resistance to interference.  If one or more bits in
+  the pattern are damaged during transmission, the original data can be
+  recovered due to the redundancy of the transmission.
+  by Webopedia Staff
+  http://www.webopedia.com/TERM/D/DSSS.html
+
+Ethernet - A local-area network (LAN) architecture developed by Xerox
+  Corporation in cooperation with DEC and Intel in 1976.  Ethernet uses a bus
+  or star topology and supports data transfer rates of 10 Mbps.  The Ethernet
+  specification served as the basis for the IEEE 802.3 standard, which
+  specifies the physical and lower software layers.  Ethernet uses the CSMA/CD
+  access method to handle simultaneous demands.  It is one of the most widely
+  implemented LAN standards.
+
+  A newer version of Ethernet, called 100Base-T (or Fast Ethernet), supports
+  data transfer rates of 100 Mbps.  And the newest version, Gigabit Ethernet
+  supports data rates of 1 gigabit (1,000 megabits) per second.
+  by Vangie Beal
+  http://www.webopedia.com/TERM/E/Ethernet.html
+
+FHSS - frequency-hopping spread spectrum - Acronym for frequency-hopping
+  spread spectrum.  FHSS is one of two types of spread spectrum radio, the
+  other being direct-sequence spread spectrum.  FHSS is a transmission
+  technology used in LAWNtransmissions where the data signal is modulated with
+  a narrowband carrier signal that "hops" in a random but predictable sequence
+  from frequency to frequency as a function of time over a wide band of
+  frequencies.  The signal energy is spread in time domain rather than
+  chopping each bit into small pieces in the frequency domain.  This technique
+  reduces interference because a signal from a narrowband system will only
+  affect the spread spectrum signal if both are transmitting at the same
+  frequency at the same time.  If synchronized properly, a single logical
+  channel is maintained.
+
+  The transmission frequencies are determined by a spreading, or hopping,
+  code.  The receiver must be set to the same hopping code and must listen to
+  the incoming signal at the right time and correct frequency in order to
+  properly receive the signal.  Current FCC regulations require manufacturers
+  to use 75 or more frequencies per transmission channel with a maximum dwell
+  time (the time spent at a particular frequency during any single hop) of 400
+  ms.
+  http://www.webopedia.com/TERM/F/FHSS.html
+
+HomePlug - HomePlug is the name of the specification that defines the home
+  networking technology that connects devices to each other through the power
+  lines in a home (see power line networking).  HomePlug certified products
+  connect PCs and other devices that use Ethernet, USB and 802.11 Wi-Fi
+  technologies to the power line via a HomePlug bridge or adapter.  Some
+  products have HomePlug technology built-in.
+
+  HomePlug uses Intellon's PowerPacket[1] solution as its baseline technology.
+  Intellon created and patented the baseline technology for the HomePlug 1.0
+  standard and introduced the first HomePlug 1.0-based IC in June 2001.
+  http://www.webopedia.com/TERM/H/HomePlug.html
+
+IEC - International Electrotechnical Commission
+  http://en.wikipedia.org/wiki/International_Electrotechnical_Commission
+
+ISO - International Organization for Standardization
+  http://en.wikipedia.org/wiki/International_Organization_for_Standardization
+
+OFDM - (pronounced as separate letters) Short for Orthogonal Frequency
+  Division Multiplexing, an FDM modulation technique for transmitting large
+  amounts of digital data over a radio wave.  OFDM works by splitting the
+  radio signal into multiple smaller sub-signals that are then transmitted
+  simultaneously at different frequencies to the receiver. OFDM reduces the
+  amount of crosstalk in signal transmissions. 802.11a WLAN, 802.16 and WiMAX
+  technologies use OFDM.
+
+  Compare with FHSS and DSSS.
+  http://www.webopedia.com/TERM/O/OFDM.html
+
+OSI - Open System Interconnection, is a networking model comprised of seven 
+  'layers'.  It's a controlled hierarchy where information is passed from one
+  layer to the next creating a blueprint for how information is passed from
+  physical electrical impulses all the way to applications.
+
+  This standard is a guide that allows engineers to keep communications
+  organized.
+  
+  The Functions of the OSI Layered Model
+  Solid Layer 2 vs. Layer 3 info.
+  http://smallbiztrends.com/2013/09/osi-model-layer-networking.html
+
+PAT - Port Address Translation (PAT), is an extension to network address
+  translation (NAT) that permits multiple devices on a local area network
+  (LAN) to be mapped to a single public IP address.  The goal of PAT is to
+  conserve IP addresses.
+  Posted by: Margaret Rouse WhatIs.com
+  http://searchnetworking.techtarget.com/definition/Port-Address-Translation-PAT
+
+power line Ethernet bridge - A power line Ethernet bridge is a HomePlug device
+  used to extend a LAN into a separate room using the existing electrical
+  system in the building.  An Ethernet cable from the network router is
+  plugged into a bridge, which plugs into an AC wall outlet.  In a separate
+  room, a second bridge plugs into the wall outlet to provide an Ethernet port
+  for the computer.  Power line Ethernet bridges are a type of HomePlug[2] device.
+  http://www.webopedia.com/TERM/P/power_line_Ethernet_bridge.html
+  
+PowerPacket - PowerPacket technology uses the same power line that provides
+  electricity to your computer to network it to other computers in your home
+  or office.  PowerPacket uses Orthogonal Frequency Division Multiplexing
+  (OFDM) to handle high-speed data transmission between computers.  Electrical
+  wires in a home are difficult to use for deploying a network as electrical
+  wires are always in a state of flux.  OFDM can detect changes within the
+  power line and maintain network communication even during power fluctuations.
+  PowerPacket is designed to seamlessly coexist with existing home networking
+  technology, including HomePNA, 802.11b and HomeRF, and can also work with
+  older home power line technologies.  PowerPacket was developed by Intellon
+  and is used as the baseline technology for the HomePlug specification.
+  http://www.webopedia.com/TERM/P/PowerPacket.html
+
+PPPoE - Acronym for Point-to-Point Protocol over Ethernet.  PPPoE relies on
+  two widely accepted standards: PPP and Ethernet.  PPPoE is a specification
+  for connecting the users on an Ethernet to the Internet through a common
+  broadband medium, such as a single DSL line, wireless device or cable modem.
+  All the users over the Ethernet share a common connection, so the Ethernet
+  principles supporting multiple users in a LAN combine with the principles of
+  PPP, which apply to serial connections.
+  by Vangie Beal
+  http://www.webopedia.com/TERM/P/PPPoE.html
+
+SMI - Structure of Management Information 
+  http://en.wikipedia.org/wiki/Structure_of_Management_Information
+
+
+Links
+=====
+[1] PowerPacket
+http://www.webopedia.com/TERM/P/PowerPacket.html
+
+[2] HomePlug
+http://www.webopedia.com/TERM/H/HomePlug.html
+
+ASN.1 - Communication Between Heterogeneous Systems
+by Olivier Dubuisson (translated by Philippe Fouquart)
+A free book about ASN.1 from Olivier Dubuisson
+http://www.oss.com/asn1/resources/books-whitepapers-pubs/asn1-books.html#dubuisson
+http://www.oss.com/asn1/resources/books-whitepapers-pubs/dubuisson-asn1-book.PDF
+
+ASN.1 Complete
+by Professor John Larmouth
+A free book about ASN.1 from John Larmouth
+http://www.oss.com/asn1/resources/books-whitepapers-pubs/asn1-books.html#larmouth
+http://www.oss.com/asn1/resources/books-whitepapers-pubs/larmouth-asn1-book.pdf
