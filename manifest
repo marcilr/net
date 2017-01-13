@@ -54,7 +54,7 @@ ssh://htpc/data/git/net/mail/mail                                         mail
 # VNC
 #
 # =====================================================================
-ssh://git@github.com/marcilr/vnc                                          vnc
+ssh://htpc/data/git/net/vnc                                               vnc
 
 
 # =====================================================================
