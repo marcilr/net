@@ -25,6 +25,9 @@
 # Chrome
 ssh://htpc/data/git/net/chrome/chrome                                     chrome
 
+# CIFS
+ssh://htpc/data/git/net/cifs                                              cifs
+
 # =====================================================================
 #
 # Firewall
