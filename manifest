@@ -67,6 +67,7 @@ ssh://htpc/data/git/net/vnc                                               vnc
 # =====================================================================
 ssh://git@github.com/marcilr/vpn                                          vpn
 
+ssh://htpc/data/git/net/vpn/openvpn/openvpn                               vpn/openvpn
 ssh://htpc/data/git/net/vpn/openvpn/00INSTALL                             vpn/openvpn/00INSTALL
 ssh://htpc/data/git/net/vpn/openvpn/paranoid-penguin                      vpn/openvpn/paranoid-penguin
 ssh://htpc/data/git/net/vpn/openvpn/paranoid-penguin/openvpn-I            vpn/openvpn/paranoid-penguin/openvpn-I
