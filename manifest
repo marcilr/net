@@ -22,6 +22,10 @@
 # =====================================================================
 # =====================================================================
 
+# Amazon
+ssh://htpc/data/git/net/amazon                                            amazon
+
+
 # Chrome
 ssh://htpc/data/git/net/chrome/chrome                                     chrome
 
