@@ -22,6 +22,10 @@
 # =====================================================================
 # =====================================================================
 
+# Amazon
+ssh://htpc/data/git/net/amazon                                            amazon
+
+
 # Chrome
 ssh://htpc/data/git/net/chrome/chrome                                     chrome
 
@@ -66,17 +70,4 @@ ssh://htpc/data/git/net/vnc                                               vnc
 #
 # =====================================================================
 ssh://git@github.com/marcilr/vpn                                          vpn
-
-ssh://htpc/data/git/net/vpn/openvpn/openvpn                               vpn/openvpn
-ssh://htpc/data/git/net/vpn/openvpn/00INSTALL                             vpn/openvpn/00INSTALL
-ssh://htpc/data/git/net/vpn/openvpn/paranoid-penguin                      vpn/openvpn/paranoid-penguin
-ssh://htpc/data/git/net/vpn/openvpn/paranoid-penguin/openvpn-I            vpn/openvpn/paranoid-penguin/openvpn-I
-ssh://htpc/data/git/net/vpn/openvpn/paranoid-penguin/openvpn-I/images     vpn/openvpn/paranoid-penguin/openvpn-I/images
-ssh://htpc/data/git/net/vpn/openvpn/paranoid-penguin/openvpn-II           vpn/openvpn/paranoid-penguin/openvpn-II
-ssh://htpc/data/git/net/vpn/openvpn/paranoid-penguin/openvpn-II/images    vpn/openvpn/paranoid-penguin/openvpn-II/images
-ssh://htpc/data/git/net/vpn/openvpn/paranoid-penguin/openvpn-III          vpn/openvpn/paranoid-penguin/openvpn-III
-ssh://htpc/data/git/net/vpn/openvpn/paranoid-penguin/openvpn-III/images   vpn/openvpn/paranoid-penguin/openvpn-III/images
-ssh://htpc/data/git/net/vpn/openvpn/paranoid-penguin/openvpn-IV           vpn/openvpn/paranoid-penguin/openvpn-IV
-ssh://htpc/data/git/net/vpn/openvpn/paranoid-penguin/openvpn-IV/images    vpn/openvpn/paranoid-penguin/openvpn-IV/images
-ssh://htpc/data/git/net/vpn/openvpn/paranoid-penguin/openvpn-V            vpn/openvpn/paranoid-penguin/openvpn-V
-ssh://htpc/data/git/net/vpn/openvpn/paranoid-penguin/openvpn-V/images     vpn/openvpn/paranoid-penguin/openvpn-V/images
+ssh://htpc/data/git/net/vpn/openvpn                                       vpn/openvpn
