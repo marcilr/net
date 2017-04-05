@@ -22,22 +22,16 @@
 # =====================================================================
 # =====================================================================
 
-# Amazon
-ssh://htpc/data/git/net/amazon                                            amazon
-
-
-# Chrome
-ssh://htpc/data/git/net/chrome/chrome                                     chrome
 
 # CIFS
-ssh://htpc/data/git/net/cifs                                              cifs
+ssh://htpc/data/git/net/cifs               cifs
 
 # =====================================================================
 #
 # Firewall
 #
 # =====================================================================
-ssh://htpc/data/git/net/firewall                                          firewall
+ssh://htpc/data/git/net/firewall           firewall
 
 #
 # pfsense
@@ -45,22 +39,14 @@ ssh://htpc/data/git/net/firewall                                          firewa
 # GCI Network Services, OSS
 # https://www.pfsense.org/
 #
-ssh://htpc/data/git/net/firewall/pfSense                                  firewall/pfSense
-
-
-# =====================================================================
-#
-#  Linode
-#
-# =====================================================================
-ssh://htpc/data/git/net/linode                                            linode
+ssh://htpc/data/git/net/firewall/pfSense   firewall/pfSense
 
 # =====================================================================
 #
 #  Mail
 #
 # =====================================================================
-ssh://htpc/data/git/net/mail/mail                                         mail
+#ssh://htpc/data/git/net/mail/mail         mail
 
 
 # =====================================================================
@@ -68,7 +54,7 @@ ssh://htpc/data/git/net/mail/mail                                         mail
 # VNC
 #
 # =====================================================================
-ssh://htpc/data/git/net/vnc                                               vnc
+ssh://htpc/data/git/net/vnc                vnc
 
 
 # =====================================================================
@@ -76,5 +62,21 @@ ssh://htpc/data/git/net/vnc                                               vnc
 # VPN
 #
 # =====================================================================
-ssh://git@github.com/marcilr/vpn                                          vpn
-ssh://htpc/data/git/net/vpn/openvpn                                       vpn/openvpn
+ssh://git@github.com/marcilr/vpn           vpn
+ssh://htpc/data/git/net/vpn/openvpn        vpn/openvpn
+
+# =====================================================================
+#
+# Web
+#
+# =====================================================================
+ssh://htpc/data/git/net/web/web             web
+
+# Amazon
+ssh://htpc/data/git/net/web/amazon          web/amazon
+
+# Chrome
+ssh://htpc/data/git/net/web/chrome/chrome   web/chrome
+
+# Linode
+ssh://htpc/data/git/net/web/linode          web/linode
