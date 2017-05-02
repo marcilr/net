@@ -12,6 +12,11 @@ Links
 by Ramesh Natarajan on June 14, 2011
 http://www.thegeekstuff.com/2011/06/iptables-rules-examples/
 
+ADOPTING THE NEXT-GEN INTERNET PROTOCOL: DEPLOYING IPV6 FOR UBER ENGINEERING
+APRIL 27, 2017
+BY JEAN HE
+https://eng.uber.com/ipv6/
+
 Ask Slashdot: Becoming a Network Administrator?
 Some good info here.
 http://ask.slashdot.org/story/11/05/05/1821243/Ask-Slashdot-Becoming-a-Network-Administrator
@@ -59,6 +64,10 @@ http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch14_:_Linux_Fir
 Submarine Cable Map 2014
 Shows all the submarine cables on earth.  Very cool.
 http://submarine-cable-map-2014.telegeography.com/#
+
+The Trouble With IPv6
+By Brad Casey , August 22, 2013
+https://www.techopedia.com/2/28557/networks/ip-addressing/the-trouble-with-ipv6
 
 Using Iptables on Linux
 From HowToGeek
