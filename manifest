@@ -41,6 +41,17 @@ ssh://htpc/data/git/net/firewall   firewall
 #
 ssh://htpc/data/git/net/firewall/pfSense   firewall/pfSense
 
+
+# =====================================================================
+#
+#  iproute2
+#  iproute2 is the Linux networking toolkit that replaced
+#  net-tools (ifconfig, route, arp etc.)
+#
+# =====================================================================
+ssh://htpc/data/git/net/iproute2   iproute2
+
+
 # =====================================================================
 #
 #  Mail
