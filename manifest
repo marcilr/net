@@ -108,7 +108,7 @@ ssh://htpc/data/git/net/vpn/openvpn   vpn/openvpn
 ssh://htpc/data/git/net/web/web   web
 
 # Amazon
-ssh://htpc/data/git/net/web/amazon   web/amazon
+ssh://htpc/data/git/net/web/aws   web/aws
 
 # Chrome
 ssh://htpc/data/git/net/web/chrome/chrome   web/chrome
