@@ -37,13 +37,11 @@ ssh://htpc/data/git/net/firewall   firewall
 #
 ssh://htpc/data/git/net/firewall/pfSense   firewall/pfSense
 
-
 #
 # iproute2 is the Linux networking toolkit that replaced
 # net-tools (ifconfig, route, arp etc.)
 #
 ssh://htpc/data/git/net/iproute2   iproute2
-
 
 # Mail
 #ssh://htpc/data/git/net/mail/mail   mail
@@ -64,7 +62,15 @@ ssh://htpc/data/git/net/vnc   vnc
 ssh://git@github.com/marcilr/vpn   vpn
 ssh://htpc/data/git/net/vpn/openvpn   vpn/openvpn
 
+# vsftpd
+ssh://git@github.com/marcilr/vsftpd   vsftpd
+
+
+# ===================================
+#
 # Web
+#
+# ===================================
 ssh://htpc/data/git/net/web/web   web
 
 # Amazon web services
