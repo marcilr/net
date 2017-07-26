@@ -14,6 +14,9 @@ Filelist
 dig/
   DNS lookup utility
 
+nmap/
+  nmap - Network exploration tool and security / port scanner
+
 remote-desktop/
   Remote Desktop
 
