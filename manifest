@@ -26,11 +26,7 @@
 # CIFS
 ssh://htpc/data/git/net/cifs   cifs
 
-# =====================================================================
-#
 # Firewall
-#
-# =====================================================================
 ssh://htpc/data/git/net/firewall   firewall
 
 #
@@ -42,72 +38,36 @@ ssh://htpc/data/git/net/firewall   firewall
 ssh://htpc/data/git/net/firewall/pfSense   firewall/pfSense
 
 
-# =====================================================================
 #
-#  iproute2
-#  iproute2 is the Linux networking toolkit that replaced
-#  net-tools (ifconfig, route, arp etc.)
+# iproute2 is the Linux networking toolkit that replaced
+# net-tools (ifconfig, route, arp etc.)
 #
-# =====================================================================
 ssh://htpc/data/git/net/iproute2   iproute2
 
 
-# =====================================================================
-#
-#  Mail
-#
-# =====================================================================
+# Mail
 #ssh://htpc/data/git/net/mail/mail   mail
 
-
-# =====================================================================
-#
-#  Remote desktop
-#
-# =====================================================================
+# Remote desktop
 ssh://git@github.com/marcilr/remote-desktop   remote-desktop
 
-
-# =====================================================================
-#
-#  Route
-#
-# =====================================================================
+# Route
 ssh://htpc/data/git/net/route   route
 
-
-# =====================================================================
-#
-#  SSH Tunneling
-#
-# =====================================================================
+# SSH Tunneling
 ssh://htpc/data/git/net/ssh-tunneling   ssh-tunneling
 
-
-# =====================================================================
-#
 # VNC
-#
-# =====================================================================
 ssh://htpc/data/git/net/vnc   vnc
 
-
-# =====================================================================
-#
 # VPN
-#
-# =====================================================================
 ssh://git@github.com/marcilr/vpn   vpn
 ssh://htpc/data/git/net/vpn/openvpn   vpn/openvpn
 
-# =====================================================================
-#
 # Web
-#
-# =====================================================================
 ssh://htpc/data/git/net/web/web   web
 
-# Amazon
+# Amazon web services
 ssh://htpc/data/git/net/web/aws   web/aws
 
 # Chrome
