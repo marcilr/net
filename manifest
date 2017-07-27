@@ -46,6 +46,9 @@ ssh://htpc/data/git/net/iproute2   iproute2
 # Mail
 #ssh://htpc/data/git/net/mail/mail   mail
 
+# nmap - Network exploration tool and security / port scanner
+git@github.com:marcilr/nmap   nmap
+
 # Remote desktop
 ssh://git@github.com/marcilr/remote-desktop   remote-desktop
 
