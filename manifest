@@ -84,3 +84,6 @@ ssh://htpc/data/git/net/web/chrome/chrome   web/chrome
 
 # Linode
 ssh://htpc/data/git/net/web/linode   web/linode
+
+# WiFi
+git@github.com:marcilr/wifi   wifi
