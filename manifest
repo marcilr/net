@@ -21,7 +21,7 @@
 #
 # =====================================================================
 # =====================================================================
-ssh://git@github.com/marcilr/adaptors         adaptors
+ssh://git@github.com/marcilr/adapters         adapters
 ssh://htpc/data/git/net/cifs                  cifs
 ssh://htpc/data/git/net/firewall              firewall
 ssh://htpc/data/git/net/iproute2              iproute2
