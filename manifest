@@ -22,6 +22,7 @@
 # =====================================================================
 # =====================================================================
 ssh://git@github.com/marcilr/adapters         adapters
+ssh://git@github.com/marcilr/bluetooth        bluetooth
 ssh://htpc/data/git/net/cifs                  cifs
 ssh://htpc/data/git/net/firewall              firewall
 ssh://htpc/data/git/net/iproute2              iproute2
