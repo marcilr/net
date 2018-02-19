@@ -30,6 +30,7 @@ ssh://htpc/data/git/net/mail/mail             mail
 git@github.com:marcilr/nmap                   nmap
 ssh://git@github.com/marcilr/remote-desktop   remote-desktop
 ssh://htpc/data/git/net/route                 route
+ssh://git@github.com/marcilr/routers          routers
 ssh://htpc/data/git/net/ssh-tunneling         ssh-tunneling
 ssh://git@github.com/marcilr/vpn              vpn
 ssh://git@github.com/marcilr/vsftpd           vsftpd
