@@ -28,11 +28,11 @@ ssh://htpc/data/git/net/firewall              firewall
 ssh://htpc/data/git/net/iproute2              iproute2
 ssh://htpc/data/git/net/mail/mail             mail
 git@github.com:marcilr/nmap                   nmap
+ssh://git@github.com/marcilr/openvpn              openvpn
 ssh://git@github.com/marcilr/remote-desktop   remote-desktop
 ssh://htpc/data/git/net/route                 route
 ssh://git@github.com/marcilr/routers          routers
 ssh://htpc/data/git/net/ssh-tunneling         ssh-tunneling
-ssh://git@github.com/marcilr/vpn              vpn
 ssh://git@github.com/marcilr/vsftpd           vsftpd
 ssh://htpc/data/git/net/web/web               web
 git@github.com:marcilr/wifi                   wifi
