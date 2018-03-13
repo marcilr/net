@@ -28,7 +28,7 @@ ssh://htpc/data/git/net/firewall              firewall
 ssh://htpc/data/git/net/iproute2              iproute2
 ssh://htpc/data/git/net/mail/mail             mail
 git@github.com:marcilr/nmap                   nmap
-ssh://git@github.com/marcilr/openvpn              openvpn
+ssh://git@github.com/marcilr/openvpn          openvpn
 ssh://git@github.com/marcilr/remote-desktop   remote-desktop
 ssh://htpc/data/git/net/route                 route
 ssh://git@github.com/marcilr/routers          routers
