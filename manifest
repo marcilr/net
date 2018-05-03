@@ -27,8 +27,8 @@ ssh://htpc/data/git/net/cifs                  cifs
 ssh://htpc/data/git/net/firewall              firewall
 ssh://htpc/data/git/net/iproute2              iproute2
 ssh://htpc/data/git/net/mail/mail             mail
-ssh://git@github.com:marcilr/nat              net
-ssh://git@github.com:marcilr/nmap             nmap
+ssh://git@github.com/marcilr/nat              net
+ssh://git@github.com/marcilr/nmap             nmap
 ssh://git@github.com/marcilr/openvpn          openvpn
 ssh://git@github.com/marcilr/remote-desktop   remote-desktop
 ssh://htpc/data/git/net/route                 route
@@ -36,4 +36,4 @@ ssh://git@github.com/marcilr/routers          routers
 ssh://htpc/data/git/net/ssh-tunneling         ssh-tunneling
 ssh://git@github.com/marcilr/vsftpd           vsftpd
 ssh://git@github.com/marcilr/web              web
-ssh://git@github.com:marcilr/wifi             wifi
+ssh://git@github.com/marcilr/wifi             wifi
