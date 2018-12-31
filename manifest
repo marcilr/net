@@ -24,6 +24,7 @@
 ssh://git@github.com/marcilr/adapters         adapters
 ssh://git@github.com/marcilr/bluetooth        bluetooth
 ssh://htpc/data/git/net/cifs                  cifs
+ssh://git@github.com/marcilr/dd-wrt           dd-wrt
 ssh://git@github.com/marcilr/ddns             ddns
 ssh://git@github.com/marcilr/facebook         facebook
 ssh://htpc/data/git/net/firewall              firewall
