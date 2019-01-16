@@ -1,0 +1,21 @@
+#.gitignore
+# Created Wed Jan 16 09:39:14 AKST 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore.
+#
+.gitignore
+adapters/
+bluetooth/
+dd-wrt/
+ddns/
+facebook/
+net/
+nmap/
+openvpn/
+putty/
+remote-desktop/
+routers/
+vsftpd/
+web/
+wifi/
