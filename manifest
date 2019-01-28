@@ -30,7 +30,7 @@ ssh://git@github.com/marcilr/facebook         facebook
 ssh://htpc/data/git/net/firewall              firewall
 ssh://htpc/data/git/net/iproute2              iproute2
 ssh://htpc/data/git/net/mail/mail             mail
-ssh://git@github.com/marcilr/nat              net
+ssh://git@github.com/marcilr/nat              nat
 ssh://git@github.com/marcilr/nmap             nmap
 ssh://git@github.com/marcilr/openvpn          openvpn
 ssh://git@github.com/marcilr/putty            putty
