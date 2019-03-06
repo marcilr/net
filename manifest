@@ -41,6 +41,7 @@ ssh://htpc/data/git/net/route                 route
 ssh://git@github.com/marcilr/routers          routers
 ssh://git@github.com/marcilr/skype            skype
 ssh://htpc/data/git/net/ssh-tunneling         ssh-tunneling
+ssh://git@github.com/marcilr/vpn              vpn
 ssh://git@github.com/marcilr/vsftpd           vsftpd
 ssh://git@github.com/marcilr/web              web
 ssh://git@github.com/marcilr/wifi             wifi
