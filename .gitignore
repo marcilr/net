@@ -10,6 +10,9 @@ bluetooth/
 dd-wrt/
 ddns/
 facebook/
+ip/
+mapper/
+nat/
 net/
 nmap/
 openvpn/
@@ -20,3 +23,5 @@ skype/
 vsftpd/
 web/
 wifi/
+xrdp/
+
