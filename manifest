@@ -44,3 +44,4 @@ ssh://htpc/data/git/net/ssh-tunneling         ssh-tunneling
 ssh://git@github.com/marcilr/vsftpd           vsftpd
 ssh://git@github.com/marcilr/web              web
 ssh://git@github.com/marcilr/wifi             wifi
+ssh://git@github.com/marcilr/xrdp             xrdp
