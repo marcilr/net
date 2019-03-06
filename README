@@ -33,3 +33,9 @@ vpn/
   telecommunication infrastructure, such as the Internet, to provide remote
   offices or traveling users an access to a central organizational network.
   http://en.wikipedia.org/wiki/Virtual_private_network
+
+xrdp/
+  xrdp: An open source remote desktop protocol(rdp) server 
+  Written by Jay Sorg
+  Friday, 23 December 2016 00:00
+  http://www.xrdp.org/
