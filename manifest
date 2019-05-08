@@ -27,6 +27,7 @@ ssh://htpc/data/git/net/cifs                  cifs
 ssh://git@github.com/marcilr/dd-wrt           dd-wrt
 ssh://git@github.com/marcilr/ddns             ddns
 ssh://git@github.com/marcilr/facebook         facebook
+ssh://git@github.com/marcilr/google           google
 ssh://htpc/data/git/net/firewall              firewall
 ssh://git@github.com/marcilr/ip               ip
 ssh://htpc/data/git/net/iproute2              iproute2
