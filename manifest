@@ -44,6 +44,6 @@ ssh://git@github.com/marcilr/skype            skype
 ssh://htpc/data/git/net/ssh-tunneling         ssh-tunneling
 ssh://git@github.com/marcilr/vpn	      vpn
 ssh://git@github.com/marcilr/vsftpd           vsftpd
-ssh://git@github.com/marcilr/web              web
+ssh://git@github.com/marcilr/www              www
 ssh://git@github.com/marcilr/wifi             wifi
 ssh://git@github.com/marcilr/xrdp             xrdp
