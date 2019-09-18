@@ -36,6 +36,7 @@ ssh://git@github.com/marcilr/mapper           mapper
 ssh://git@github.com/marcilr/nat              nat
 ssh://git@github.com/marcilr/nmap             nmap
 ssh://git@github.com/marcilr/openvpn          openvpn
+ssh://git@github.com/marcilr/outlook          outlook
 ssh://git@github.com/marcilr/putty            putty
 ssh://git@github.com/marcilr/remote-desktop   remote-desktop
 ssh://htpc/data/git/net/route                 route
