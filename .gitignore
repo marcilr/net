@@ -10,12 +10,14 @@ bluetooth/
 dd-wrt/
 ddns/
 facebook/
+google/
 ip/
 mapper/
 nat/
 net/
 nmap/
 openvpn/
+outlook/
 putty/
 remote-desktop/
 routers/
@@ -23,5 +25,6 @@ skype/
 vsftpd/
 web/
 wifi/
+www/
 vpn/
 xrdp/
