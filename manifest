@@ -25,7 +25,8 @@
 #ssh://git@github.com/marcilr/bluetooth        bluetooth
 #ssh://htpc/data/git/net/cifs                  cifs
 #ssh://git@github.com/marcilr/dd-wrt           dd-wrt
-#ssh://git@github.com/marcilr/ddns             ddns
+ssh://git@github.com/marcilr/dns              dns
+ssh://git@github.com/marcilr/ddns             ddns
 ssh://git@github.com/marcilr/domain           domain
 #ssh://git@github.com/marcilr/facebook         facebook
 #ssh://git@github.com/marcilr/google           google
