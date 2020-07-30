@@ -9,8 +9,11 @@ adapters/
 bluetooth/
 dd-wrt/
 ddns/
+dns/
+domain/
 facebook/
 google/
+imapfilter/
 ip/
 mapper/
 nat/
