@@ -9,6 +9,7 @@ adapters/
 bluetooth/
 dd-wrt/
 ddns/
+dhcp/
 dns/
 domain/
 facebook/
