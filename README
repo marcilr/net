@@ -14,6 +14,9 @@ Filelist
 dig/
   DNS lookup utility
 
+links.html
+  Network related links
+
 nmap/
   nmap - Network exploration tool and security / port scanner
 
