@@ -32,6 +32,7 @@ ssh://git@github.com/marcilr/domain.git       domain
 #ssh://git@github.com/marcilr/facebook.git       facebook
 #ssh://git@github.com/marcilr/google.git         google
 #ssh://htpc/data/git/net/firewall.git            firewall
+ssh://git@github.com/marcilr/imapfilter.git   imapfilter
 #ssh://git@github.com/marcilr/ip.git             ip
 #ssh://htpc/data/git/net/iproute2.git            iproute2
 #ssh://htpc/data/git/net/mail/mail.git           mail
