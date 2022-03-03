@@ -6,7 +6,9 @@
 #
 .gitignore
 adapters/
+apache2/
 bluetooth/
+css/
 dd-wrt/
 ddns/
 dhcp/
@@ -15,6 +17,8 @@ domain/
 facebook/
 gmail/
 google/
+hosting/
+html/
 imapfilter/
 ip/
 mapper/
