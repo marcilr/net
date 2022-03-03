@@ -54,16 +54,25 @@ ssh://git@github.com/marcilr/imapfilter.git      imapfilter
 #ssh://htpc/data/git/net/iproute2.git             iproute2
 
 #git@github.com:marcilr/javascript.git            javascript
+ssh://git@github.com/marcilr/linode              linode
+#ssh://htpc/data/git/net/web/linode               linode
 #ssh://htpc/data/git/net/mail/mail.git            mail
 #ssh://git@github.com/marcilr/mapper.git          mapper
+#ssh://git@github.com/marcilr/microservices.git   microservices
 #ssh://git@github.com/marcilr/nat.git             nat
 #ssh://git@github.com/marcilr/nmap                nmap
+ssh://git@github.com/marcilr/nginx.git           nginx
+#ssh://htpc/data/git/net/web/node.js/node.js      node.js
+#ssh://htpc/data/git/net/web/node.js/angular      node.js/angular
 #ssh://git@github.com/marcilr/openvpn             openvpn
 #ssh://git@github.com/marcilr/outlook             outlook
 #ssh://git@github.com/marcilr/putty               putty
 #ssh://git@github.com/marcilr/remote-desktop      remote-desktop
+git@github.com:marcilr/rockhounding.net.git      rockhounding.net
 #ssh://htpc/data/git/net/route                    route
 #ssh://git@github.com/marcilr/routers             routers
+#git@github.com:marcilr/selenium.git              selenium
+git@github.com:marcilr/ssl.git                   ssl
 #ssh://git@github.com/marcilr/skype               skype
 #ssh://htpc/data/git/net/ssh-tunneling            ssh-tunneling
 
