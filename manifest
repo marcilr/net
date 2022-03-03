@@ -39,13 +39,21 @@ ssh://git@github.com/marcilr/dhcp.git            dhcp
 ssh://git@github.com/marcilr/dns.git             dns
 ssh://git@github.com/marcilr/ddns.git            ddns
 ssh://git@github.com/marcilr/domain.git          domain
+
 #ssh://git@github.com/marcilr/facebook.git        facebook
+#ssh://htpc/data/git/net/firewall.git             firewall
+
 ssh://git@github.com/marcilr/gmail.git           gmail
 #ssh://git@github.com/marcilr/google.git          google
-#ssh://htpc/data/git/net/firewall.git             firewall
+
+ssh://git@github.com/marcilr/hosting.git         hosting
+git@github.com:marcilr/html.git                  html
+
 ssh://git@github.com/marcilr/imapfilter.git      imapfilter
 #ssh://git@github.com/marcilr/ip.git              ip
 #ssh://htpc/data/git/net/iproute2.git             iproute2
+
+#git@github.com:marcilr/javascript.git            javascript
 #ssh://htpc/data/git/net/mail/mail.git            mail
 #ssh://git@github.com/marcilr/mapper.git          mapper
 #ssh://git@github.com/marcilr/nat.git             nat
@@ -58,6 +66,7 @@ ssh://git@github.com/marcilr/imapfilter.git      imapfilter
 #ssh://git@github.com/marcilr/routers             routers
 #ssh://git@github.com/marcilr/skype               skype
 #ssh://htpc/data/git/net/ssh-tunneling            ssh-tunneling
+
 ssh://git@github.com/marcilr/vpn	         vpn
 #ssh://git@github.com/marcilr/vsftpd              vsftpd
 ssh://git@github.com/marcilr/www                 www
