@@ -24,7 +24,9 @@
 #ssh://git@github.com/marcilr/www-00ARCHIVES     00ARCHIVES
 
 #ssh://git@github.com/marcilr/net-adapters.git   adapters
-ssh://git@github.com/marcilr/apache2             apache2
+
+ssh://git@github.com/marcilr/amazon.git          amazon
+ssh://git@github.com/marcilr/apache2.git         apache2
 #ssh://htpc/data/git/net/web/aws                  aws
 
 #ssh://git@github.com/marcilr/bluetooth.git       bluetooth
