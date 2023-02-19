@@ -9,6 +9,7 @@ adapters/
 apache2/
 amazon/
 bluetooth/
+csr/
 css/
 dd-wrt/
 ddns/
